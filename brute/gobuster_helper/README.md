@@ -1,0 +1,1 @@
+- fuzz list of url's dir and sensivite file with gobuster
